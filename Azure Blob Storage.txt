@@ -1,0 +1,20 @@
+Azure Blob Storage		
+		
+Storage account name 		ake
+		
+Access key		VvN57CEqtcbAuagUCfExVpxx6PyweIDuW9F/3pD77A/kCLbOJIvvbg/VXL7+1Spn0NygoR2m4/2C+AStzxuauA==
+		
+		
+		
+		
+		
+"Azure SQL Database
+"		ake.database.windows.net
+Database Name		AdventureworksDW
+User		student
+pass		Pa55w.rd
+		
+		
+		
+		
+https://github.com/phakkhaphong/fabric_essential		
